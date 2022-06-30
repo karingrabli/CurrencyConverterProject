@@ -3,7 +3,7 @@
 public class USD extends Coin {
    private final double value = 3.52;
     @Override
-    public double getValue() { // this method returns the current value of 1 shekel in dollars
+    public double getValue() { // this method returns the current value of 1 dollar in shekels
         return value;
     }
 
